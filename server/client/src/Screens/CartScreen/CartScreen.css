@@ -1,0 +1,24 @@
+.fa-plus {
+  color: green;
+  margin: 0.2rem;
+}
+.fa-minus {
+  color: red;
+  margin: 0.2rem;
+}
+.fa-trash {
+  color: orange;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.btn {
+  background-color: orange;
+  cursor: pointer;
+  color: white;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img-size {
+  height: 350px;
+}
+.quantity-list {
+  height: 25px;
+}
+a:hover {
+  color: orange !important;
+}
+.card-header {
+  overflow: hidden;
+}
+.card-header:hover .img-hold img {
+  transform: scale(1.2);
+  transition: all 1s linear;
+}
